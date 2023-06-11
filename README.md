@@ -13,3 +13,4 @@ pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/
 python prompt.py
 
 ## Open the application from the url
+Dash is running on http://127.0.0.1:8063/
