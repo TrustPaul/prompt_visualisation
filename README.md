@@ -1,5 +1,5 @@
 # Create a virtual environment
-# This has been tested in Ubuntu or Windows WSL
+This has been tested in Ubuntu or Windows WSL
 ## Create a virtual environment
 sudo apt-get install python3-pip <br>
 sudo pip3 install virtualenv <br>
